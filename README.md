@@ -1,4 +1,18 @@
-# Liberation_6613
+# 💫 Hi 👋, I'm Shayan 
+**A passionate Software Engineer || DevOps Engineer || Web Developer**
+
+Email Me 👉 ✉️ **shayansher50@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on SQL:** Enter your project info here
+- 🌱 **I’m currently learning: Cuber Security(Ethical Hacking)** Enter your tech here
+- 👯 **I’m looking to collaborate on: ** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:*A Passionate Software Developer with a strong grip on Java, C,C++ and C#* Collaboration, Tech Support
+- 📫 **How to reach me:*shayansher50@gmail.com* Enter your email here
+- 😄 **Pronouns:*Mr.Shayan* 
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🔗 I am a Manga Artist. 😊😊
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liberation6613@gmail.com) 
